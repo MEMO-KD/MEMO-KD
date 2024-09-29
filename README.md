@@ -32,12 +32,3 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>เกมي</title>
-</head>
-<body>
-	<h1>เกมي</h1>
-	<p>This is a game on my GitLab page.</p>
-	<button onclick="location.href='https://gitlab.com/memo-kd/game'">لعب</button>
-	<script src="game.js"></script>
-</body>
-</html>
