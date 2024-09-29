@@ -29,3 +29,15 @@
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memo-kd&show_icons=true&locale=en" alt="memo-kd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memo-kd&" alt="memo-kd" /></p>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>เกมي</title>
+</head>
+<body>
+	<h1>เกมي</h1>
+	<p>This is a game on my GitLab page.</p>
+	<button onclick="location.href='https://gitlab.com/memo-kd/game'">لعب</button>
+	<script src="game.js"></script>
+</body>
+</html>
