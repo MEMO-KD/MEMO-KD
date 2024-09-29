@@ -7,7 +7,7 @@
 <a href="https://twitter.com/MuhAnNaD_AL_KADRI" target="_blank" rel="noreferrer">Twitter</a> |
 <a href="https://www.instagram.com/muhannadalkadri/" target="_blank" rel="noreferrer">Instagram</a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
