@@ -26,5 +26,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=memo-kd&show_icons=true&locale=en&layout=compact" alt="memo-kd" /></p>
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memo-kd&show_icons=true&locale=en" alt="memo-kd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memo-kd&" alt="memo-kd" /></p>
